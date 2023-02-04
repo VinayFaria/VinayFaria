@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinayFaria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in machine learning for signal processing, Computer Vision, Artificial Intelligence, Deep Learning.
+- 🌱 I’m currently learning models, architecture, techniques for projects undertaken.
 - 📫 You can reach to me at https://www.linkedin.com/in/vinayfaria/
 
 <!---
