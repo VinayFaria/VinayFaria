@@ -50,14 +50,15 @@
 <ul>
     
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/vinayfaria/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/VinayFaria](https://www.linkedin.com/in/vinayfaria/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  VinayFaria-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
     
 </ul>
 </div>
-
+<br>
+<br>
 <!---
 VinayFaria/VinayFaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
