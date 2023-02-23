@@ -3,7 +3,7 @@
 - I’m interested in machine learning for signal processing, Computer Vision, Artificial Intelligence, Deep Learning.
 - Currently working on project "Analysis of EEG data for imagined speech task", learning C++ programming language and learning models, architecture, techniques in my interested field.
 - This is [my resume](https://www.linkedin.com/in/vinayfaria/overlay/1635510725966/single-media-viewer/?profileId=ACoAACINwasBGNm6K8qCeRDaioJ9PK5-fvSoEX8)
-<br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -31,7 +31,7 @@
 <div align="center">
     
 <a href="https://github.com/VinayFaria/">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayFaria&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VinayFaria&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VinayFaria&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="VinayFaria"/>
 
 </a>
