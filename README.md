@@ -9,8 +9,7 @@
 
 - I’m interested in machine learning for signal processing, Computer Vision, Artificial Intelligence, Deep Learning.
 - Currently working on project "Analysis of EEG for imagined speech task", learning C++ programming language and learning models, architecture, techniques in my interested field.
-- this is [my resume](https://www.linkedin.com/in/vinayfaria/overlay/1635510725966/single-media-viewer/?profileId=ACoAACINwasBGNm6K8qCeRDaioJ9PK5-fvSoEX8)
-
+- This is [my resume](https://www.linkedin.com/in/vinayfaria/overlay/1635510725966/single-media-viewer/?profileId=ACoAACINwasBGNm6K8qCeRDaioJ9PK5-fvSoEX8)
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
