@@ -2,7 +2,7 @@
 
 - I’m interested in Machine learning, Deep Learning, Data Analysis, Predictive Analytics, and Computer Vision.
 # - Currently working on project "Analysis of EEG data for imagined speech task", learning C++ programming language and learning models, architecture, techniques in my interested field.
-# - This is [my resume](https://www.linkedin.com/in/vinayfaria/overlay/1635510725966/single-media-viewer/?profileId=ACoAACINwasBGNm6K8qCeRDaioJ9PK5-fvSoEX8)
+<! -- - This is [my resume](https://www.linkedin.com/in/vinayfaria/overlay/1635510725966/single-media-viewer/?profileId=ACoAACINwasBGNm6K8qCeRDaioJ9PK5-fvSoEX8) -->
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
