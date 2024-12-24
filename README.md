@@ -1,4 +1,4 @@
-## <picture><img src = "https://icons8.com/icon/LoL4bFzqmAa0/github" width = 40px></picture> **About me**
+## <picture><img src = "https://img.icons8.com/?size=100&id=21441&format=png&color=000000" width = 40px></picture> **About me**
 
 - I’m interested in Machine learning, Deep Learning, Data Analysis, Predictive Analytics, and Computer Vision.
 <!-- Currently working on project "Analysis of EEG data for imagined speech task", learning C++ programming language and learning models, architecture, techniques in my interested field. -->
