@@ -1,7 +1,7 @@
 ## <picture><img src = "https://icons8.com/icon/LoL4bFzqmAa0/github" width = 40px></picture> **About me**
 
 - I’m interested in Machine learning, Deep Learning, Data Analysis, Predictive Analytics, and Computer Vision.
-# - Currently working on project "Analysis of EEG data for imagined speech task", learning C++ programming language and learning models, architecture, techniques in my interested field.
+<!-- Currently working on project "Analysis of EEG data for imagined speech task", learning C++ programming language and learning models, architecture, techniques in my interested field. -->
 <!-- This is [my resume](https://www.linkedin.com/in/vinayfaria/overlay/1635510725966/single-media-viewer/?profileId=ACoAACINwasBGNm6K8qCeRDaioJ9PK5-fvSoEX8) -->
 <br>
 
